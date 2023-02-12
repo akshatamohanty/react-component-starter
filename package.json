@@ -1,0 +1,24 @@
+{
+  "name": "react-component-template",
+  "version": "1.0.0",
+  "description": "Template to build React components and publish to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatamohanty/react-component-template.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "npm"
+  ],
+  "author": "Akshata Mohanty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshatamohanty/react-component-template/issues"
+  },
+  "homepage": "https://github.com/akshatamohanty/react-component-template#readme"
+}
